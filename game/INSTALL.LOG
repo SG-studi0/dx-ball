@@ -1,0 +1,65 @@
+*** Installation Started 2/20/98 8:51 ***
+Title: DX-Ball 1.07 Installation
+Source: E:\DXBALL\DXBALL17.EXE
+Made Dir: D:\Games\DX-Ball
+File Copy: D:\Games\DX-Ball\score.dat
+File Copy: D:\Games\DX-Ball\Unwise.exe
+File Copy: D:\Games\DX-Ball\12flight.mds
+File Copy: D:\Games\DX-Ball\Acker-gs.mds
+File Copy: D:\Games\DX-Ball\Ao-laser.wav
+File Copy: D:\Games\DX-Ball\Bang.wav
+File Copy: D:\Games\DX-Ball\Bassdrum.wav
+File Copy: D:\Games\DX-Ball\Bigbolt.pcx
+File Copy: D:\Games\DX-Ball\Boing.wav
+File Copy: D:\Games\DX-Ball\Brain.mds
+File Copy: D:\Games\DX-Ball\Byeball.wav
+File Copy: D:\Games\DX-Ball\Candy.sbk
+File Copy: D:\Games\DX-Ball\Chisel2.sbk
+File Copy: D:\Games\DX-Ball\Default.bds
+File Copy: D:\Games\DX-Ball\Dxball.exe
+File Copy: D:\Games\DX-Ball\Effect.wav
+File Copy: D:\Games\DX-Ball\Effect2.wav
+File Copy: D:\Games\DX-Ball\Ethno_pa.mds
+File Copy: D:\Games\DX-Ball\Fanfare.wav
+File Copy: D:\Games\DX-Ball\Freebee.mds
+File Copy: D:\Games\DX-Ball\Glass.wav
+File Copy: D:\Games\DX-Ball\Gmfigaro.mds
+File Copy: D:\Games\DX-Ball\Gunfire.wav
+File Copy: D:\Games\DX-Ball\Highscor.pcx
+File Copy: D:\Games\DX-Ball\Humm.wav
+File Copy: D:\Games\DX-Ball\Intro.pcx
+File Copy: D:\Games\DX-Ball\Mainmenu.pcx
+File Copy: D:\Games\DX-Ball\Mainmenu.sbk
+File Copy: D:\Games\DX-Ball\Mball2.sbk
+File Copy: D:\Games\DX-Ball\Mbbkgrnd.pcx
+File Copy: D:\Games\DX-Ball\Orchblas.wav
+File Copy: D:\Games\DX-Ball\Orchestr.wav
+File Copy: D:\Games\DX-Ball\Padexplo.wav
+File Copy: D:\Games\DX-Ball\Peow!.wav
+File Copy: D:\Games\DX-Ball\Readme.txt
+File Copy: D:\Games\DX-Ball\Ricochet.wav
+File Copy: D:\Games\DX-Ball\Saucer.wav
+File Copy: D:\Games\DX-Ball\Sfont.sbk
+File Copy: D:\Games\DX-Ball\Sweepdow.wav
+File Copy: D:\Games\DX-Ball\Swordswi.wav
+File Copy: D:\Games\DX-Ball\Sysfont.sbk
+File Copy: D:\Games\DX-Ball\Tank.wav
+File Copy: D:\Games\DX-Ball\Thefont.sbk
+File Copy: D:\Games\DX-Ball\Thudclap.wav
+File Copy: D:\Games\DX-Ball\Voltage.wav
+File Copy: D:\Games\DX-Ball\Whine.wav
+File Copy: D:\Games\DX-Ball\Wowpulse.wav
+File Copy: D:\Games\DX-Ball\Xploshor.wav
+File Copy: D:\Games\DX-Ball\Xplosht1.wav
+File Copy: D:\GAMES\DX-BALL\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DX-Ball 1.07
+RegDB Val: DX-Ball 1.07
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\DX-Ball 1.07
+RegDB Val: D:\GAMES\DX-BALL\UNWISE.EXE D:\GAMES\DX-BALL\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\WINDOWS\Start Menu\Programs\DX-Ball Game
+Shell Link: C:\WINDOWS\Start Menu\Programs\DX-Ball Game\Dxball.lnk
+Shell Link: C:\WINDOWS\Start Menu\Programs\DX-Ball Game\Readme.lnk
